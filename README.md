@@ -12,3 +12,5 @@ Is a codeacdemy project in which the ...
 ![redline mock](/resources/images/excursion_redline.webp)
 
 The links are not working (no links specified) and there is no specifications for responsive design.
+
+You can try the side [here](https://zolske.github.io/excursion/)
