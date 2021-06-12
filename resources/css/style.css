@@ -32,3 +32,15 @@ p {
 .copyRight {
     text-align: right;
 }
+
+video {
+    display: block;
+    margin: auto;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-bottom: 2rem;
+}
